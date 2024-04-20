@@ -1,4 +1,4 @@
-Trained a pre-trained resnet18, with its weights freezen, added a classifier, and finetuned the classifier layers `Training_CelebA.ipynb`
+Trained a pre-trained resnet18, with its weights frozen, added a classifier, and finetuned the classifier layers `Training_CelebA.ipynb`
 
 Evaluated on the test data and obtained accuracies wrt every attribute `inference.py`
 

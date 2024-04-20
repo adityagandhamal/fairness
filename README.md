@@ -1,6 +1,6 @@
 - Trained a pre-trained resnet18, with its weights frozen, added a classifier, and finetuned the classifier layers `Training_CelebA.ipynb`
 
-- Evaluated on the test data and obtained accuracies wrt every attribute `inference.py`
+- Evaluated on the test data and obtained accuracies wrt every attribute `inference.py`, `attr acc.png`
 
 - Based on some analysis of the data population and the above results, chose "Male" as the spurious attribute and "Bald" as the target (affecting) attribute.
 

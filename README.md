@@ -13,4 +13,4 @@ Implemented an adversarial training pipeline to reduce the above bias.
 Lastly, rechecked the bias to ensure Equalized Odds is satisfied.
 `recheck_odds.py`
 
-<u>**Conclusion**: Adversarial Training did reduce the original bias by 20%.</u>
+**Conclusion: Adversarial Training did reduce the original bias by 20%**

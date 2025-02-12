@@ -1,4 +1,4 @@
-# Bias mitigation in Fair Facial Attribute Classification (FAIR-Face)
+# Bias mitigation for Fair Facial Attribute Classification (FAIR-Face)
 
 ![celebA](https://github.com/adityagandhamal/fairness/blob/main/celebA.png)
 
